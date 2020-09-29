@@ -1,0 +1,135 @@
+2020-01-06 08:45:56 INFO  ProjectConfig:31 - Loading Project Configuration - Successful
+2020-01-06 08:45:56 INFO  ProjectConfig:39 - Selected Browser : chrome
+2020-01-06 08:45:56 INFO  ProjectConfig:42 - Implicit Wait Delay : 30
+2020-01-06 08:45:56 INFO  ProjectConfig:45 - chrome Driver Location : C:\Automation Projects\GitRepo\TestNGProj\TestNGProj\src\resources\driver\chromedriver.exe
+2020-01-06 08:45:56 INFO  ProjectConfig:48 - Application URL : https://autoapp.citronglobal.com/index.php
+2020-01-06 08:45:56 INFO  ProjectConfig:51 - Application Login User ID : admin
+2020-01-06 08:45:56 INFO  ProjectConfig:54 - Application Login User ID : admin1
+2020-01-06 08:46:00 INFO  Base:25 - Chrome Driver Initialization Successful
+2020-01-06 08:46:09 INFO  ProjectConfig:31 - Loading Project Configuration - Successful
+2020-01-06 08:46:09 INFO  ProjectConfig:39 - Selected Browser : chrome
+2020-01-06 08:46:09 INFO  ProjectConfig:42 - Implicit Wait Delay : 30
+2020-01-06 08:46:09 INFO  ProjectConfig:45 - chrome Driver Location : C:\Automation Projects\GitRepo\TestNGProj\TestNGProj\src\resources\driver\chromedriver.exe
+2020-01-06 08:46:09 INFO  ProjectConfig:48 - Application URL : https://autoapp.citronglobal.com/index.php
+2020-01-06 08:46:09 INFO  ProjectConfig:51 - Application Login User ID : admin
+2020-01-06 08:46:09 INFO  ProjectConfig:54 - Application Login User ID : admin1
+2020-01-06 08:48:45 INFO  ProjectConfig:31 - Loading Project Configuration - Successful
+2020-01-06 08:48:45 INFO  ProjectConfig:39 - Selected Browser : chrome
+2020-01-06 08:48:45 INFO  ProjectConfig:42 - Implicit Wait Delay : 30
+2020-01-06 08:48:45 INFO  ProjectConfig:45 - chrome Driver Location : C:\Automation Projects\GitRepo\TestNGProj\TestNGProj\src\resources\driver\chromedriver.exe
+2020-01-06 08:48:45 INFO  ProjectConfig:48 - Application URL : https://autoapp.citronglobal.com/index.php
+2020-01-06 08:48:45 INFO  ProjectConfig:51 - Application Login User ID : admin
+2020-01-06 08:48:45 INFO  ProjectConfig:54 - Application Login User ID : admin1
+2020-01-06 08:48:50 INFO  Base:25 - Chrome Driver Initialization Successful
+2020-01-06 08:48:58 INFO  ProjectConfig:31 - Loading Project Configuration - Successful
+2020-01-06 08:48:58 INFO  ProjectConfig:39 - Selected Browser : chrome
+2020-01-06 08:48:58 INFO  ProjectConfig:42 - Implicit Wait Delay : 30
+2020-01-06 08:48:58 INFO  ProjectConfig:45 - chrome Driver Location : C:\Automation Projects\GitRepo\TestNGProj\TestNGProj\src\resources\driver\chromedriver.exe
+2020-01-06 08:48:58 INFO  ProjectConfig:48 - Application URL : https://autoapp.citronglobal.com/index.php
+2020-01-06 08:48:58 INFO  ProjectConfig:51 - Application Login User ID : admin
+2020-01-06 08:48:58 INFO  ProjectConfig:54 - Application Login User ID : admin1
+2020-01-06 08:59:04 INFO  ProjectConfig:33 - Loading Project Configuration - Successful
+2020-01-06 08:59:04 INFO  ProjectConfig:41 - Selected Browser : chrome
+2020-01-06 08:59:04 INFO  ProjectConfig:44 - Implicit Wait Delay : 30
+2020-01-06 08:59:04 INFO  ProjectConfig:47 - chrome Driver Location : C:\Automation Projects\GitRepo\TestNGProj\TestNGProj\src\resources\driver\chromedriver.exe
+2020-01-06 08:59:04 INFO  ProjectConfig:50 - Application URL : https://autoapp.citronglobal.com/index.php
+2020-01-06 08:59:04 INFO  ProjectConfig:53 - Application Login User ID : admin
+2020-01-06 08:59:04 INFO  ProjectConfig:56 - Application Login User ID : admin1
+2020-01-06 08:59:04 INFO  ProjectConfig:60 - Application Language Locale = hi IN
+2020-01-06 08:59:08 INFO  Base:25 - Chrome Driver Initialization Successful
+2020-01-06 08:59:17 INFO  ProjectConfig:33 - Loading Project Configuration - Successful
+2020-01-06 08:59:17 INFO  ProjectConfig:41 - Selected Browser : chrome
+2020-01-06 08:59:17 INFO  ProjectConfig:44 - Implicit Wait Delay : 30
+2020-01-06 08:59:17 INFO  ProjectConfig:47 - chrome Driver Location : C:\Automation Projects\GitRepo\TestNGProj\TestNGProj\src\resources\driver\chromedriver.exe
+2020-01-06 08:59:17 INFO  ProjectConfig:50 - Application URL : https://autoapp.citronglobal.com/index.php
+2020-01-06 08:59:17 INFO  ProjectConfig:53 - Application Login User ID : admin
+2020-01-06 08:59:17 INFO  ProjectConfig:56 - Application Login User ID : admin1
+2020-01-06 08:59:17 INFO  ProjectConfig:60 - Application Language Locale = hi IN
+2020-01-06 08:59:28 INFO  ProjectConfig:33 - Loading Project Configuration - Successful
+2020-01-06 08:59:28 INFO  ProjectConfig:41 - Selected Browser : chrome
+2020-01-06 08:59:28 INFO  ProjectConfig:44 - Implicit Wait Delay : 30
+2020-01-06 08:59:28 INFO  ProjectConfig:47 - chrome Driver Location : C:\Automation Projects\GitRepo\TestNGProj\TestNGProj\src\resources\driver\chromedriver.exe
+2020-01-06 08:59:28 INFO  ProjectConfig:50 - Application URL : https://autoapp.citronglobal.com/index.php
+2020-01-06 08:59:28 INFO  ProjectConfig:53 - Application Login User ID : admin
+2020-01-06 08:59:28 INFO  ProjectConfig:56 - Application Login User ID : admin1
+2020-01-06 08:59:28 INFO  ProjectConfig:60 - Application Language Locale = ka IN
+2020-01-06 08:59:33 INFO  Base:25 - Chrome Driver Initialization Successful
+2020-01-06 08:59:44 INFO  ProjectConfig:33 - Loading Project Configuration - Successful
+2020-01-06 08:59:44 INFO  ProjectConfig:41 - Selected Browser : chrome
+2020-01-06 08:59:44 INFO  ProjectConfig:44 - Implicit Wait Delay : 30
+2020-01-06 08:59:44 INFO  ProjectConfig:47 - chrome Driver Location : C:\Automation Projects\GitRepo\TestNGProj\TestNGProj\src\resources\driver\chromedriver.exe
+2020-01-06 08:59:44 INFO  ProjectConfig:50 - Application URL : https://autoapp.citronglobal.com/index.php
+2020-01-06 08:59:44 INFO  ProjectConfig:53 - Application Login User ID : admin
+2020-01-06 08:59:44 INFO  ProjectConfig:56 - Application Login User ID : admin1
+2020-01-06 08:59:44 INFO  ProjectConfig:60 - Application Language Locale = ka IN
+2020-01-06 09:02:06 ERROR ProjectConfig:35 - Error loading project config : java.io.FileNotFoundException: projectConfig.properties (The system cannot find the file specified)
+2020-01-06 09:02:06 INFO  ProjectConfig:41 - Selected Browser : null
+2020-01-06 09:06:00 INFO  ProjectConfig:35 - Loading Project Configuration - Successful
+2020-01-06 09:06:00 INFO  ProjectConfig:47 - Selected Browser : chrome
+2020-01-06 09:06:00 INFO  ProjectConfig:50 - Implicit Wait Delay : 30
+2020-01-06 09:06:00 INFO  ProjectConfig:53 - chrome Driver Location : C:\Automation Projects\GitRepo\TestNGProj\TestNGProj\src\resources\driver\chromedriver.exe
+2020-01-06 09:06:00 INFO  ProjectConfig:56 - Application URL : https://autoapp.citronglobal.com/index.php
+2020-01-06 09:06:00 INFO  ProjectConfig:59 - Application Login User ID : admin
+2020-01-06 09:06:00 INFO  ProjectConfig:62 - Application Login User ID : admin1
+2020-01-06 09:06:00 INFO  ProjectConfig:66 - Application Language Locale = ka IN
+2020-01-06 09:06:04 INFO  Base:25 - Chrome Driver Initialization Successful
+2020-01-06 09:06:19 INFO  ProjectConfig:35 - Loading Project Configuration - Successful
+2020-01-06 09:06:19 INFO  ProjectConfig:47 - Selected Browser : chrome
+2020-01-06 09:06:19 INFO  ProjectConfig:50 - Implicit Wait Delay : 30
+2020-01-06 09:06:19 INFO  ProjectConfig:53 - chrome Driver Location : C:\Automation Projects\GitRepo\TestNGProj\TestNGProj\src\resources\driver\chromedriver.exe
+2020-01-06 09:06:19 INFO  ProjectConfig:56 - Application URL : https://autoapp.citronglobal.com/index.php
+2020-01-06 09:06:19 INFO  ProjectConfig:59 - Application Login User ID : admin
+2020-01-06 09:06:19 INFO  ProjectConfig:62 - Application Login User ID : admin1
+2020-01-06 09:06:19 INFO  ProjectConfig:66 - Application Language Locale = ka IN
+2020-01-06 09:22:46 INFO  ProjectConfig:35 - Loading Project Configuration - Successful
+2020-01-06 09:22:46 INFO  ProjectConfig:47 - Selected Browser : chrome
+2020-01-06 09:22:46 INFO  ProjectConfig:50 - Implicit Wait Delay : 30
+2020-01-06 09:22:46 INFO  ProjectConfig:53 - chrome Driver Location : C:\Automation Projects\GitRepo\TestNGProj\TestNGProj\src\resources\driver\chromedriver.exe
+2020-01-06 09:22:46 INFO  ProjectConfig:56 - Application URL : https://autoapp.citronglobal.com/index.php
+2020-01-06 09:22:46 INFO  ProjectConfig:59 - Application Login User ID : admin
+2020-01-06 09:22:46 INFO  ProjectConfig:62 - Application Login User ID : admin1
+2020-01-06 09:22:46 INFO  ProjectConfig:66 - Application Language Locale = en GB
+2020-01-06 09:22:50 INFO  Base:25 - Chrome Driver Initialization Successful
+2020-01-06 09:22:59 INFO  ProjectConfig:35 - Loading Project Configuration - Successful
+2020-01-06 09:22:59 INFO  ProjectConfig:47 - Selected Browser : chrome
+2020-01-06 09:22:59 INFO  ProjectConfig:50 - Implicit Wait Delay : 30
+2020-01-06 09:22:59 INFO  ProjectConfig:53 - chrome Driver Location : C:\Automation Projects\GitRepo\TestNGProj\TestNGProj\src\resources\driver\chromedriver.exe
+2020-01-06 09:22:59 INFO  ProjectConfig:56 - Application URL : https://autoapp.citronglobal.com/index.php
+2020-01-06 09:22:59 INFO  ProjectConfig:59 - Application Login User ID : admin
+2020-01-06 09:22:59 INFO  ProjectConfig:62 - Application Login User ID : admin1
+2020-01-06 09:22:59 INFO  ProjectConfig:66 - Application Language Locale = en GB
+2020-01-06 09:26:58 INFO  ProjectConfig:35 - Loading Project Configuration - Successful
+2020-01-06 09:26:58 INFO  ProjectConfig:47 - Selected Browser : chrome
+2020-01-06 09:26:58 INFO  ProjectConfig:50 - Implicit Wait Delay : 30
+2020-01-06 09:26:58 INFO  ProjectConfig:53 - chrome Driver Location : C:\Automation Projects\GitRepo\TestNGProj\TestNGProj\src\resources\driver\chromedriver.exe
+2020-01-06 09:26:58 INFO  ProjectConfig:56 - Application URL : https://autoapp.citronglobal.com/index.php
+2020-01-06 09:26:58 INFO  ProjectConfig:59 - Application Login User ID : admin
+2020-01-06 09:26:58 INFO  ProjectConfig:62 - Application Login User ID : admin1
+2020-01-06 09:26:58 INFO  ProjectConfig:66 - Application Language Locale = en GB
+2020-01-06 09:27:02 INFO  Base:25 - Chrome Driver Initialization Successful
+2020-01-06 09:27:10 INFO  ProjectConfig:35 - Loading Project Configuration - Successful
+2020-01-06 09:27:10 INFO  ProjectConfig:47 - Selected Browser : chrome
+2020-01-06 09:27:10 INFO  ProjectConfig:50 - Implicit Wait Delay : 30
+2020-01-06 09:27:10 INFO  ProjectConfig:53 - chrome Driver Location : C:\Automation Projects\GitRepo\TestNGProj\TestNGProj\src\resources\driver\chromedriver.exe
+2020-01-06 09:27:10 INFO  ProjectConfig:56 - Application URL : https://autoapp.citronglobal.com/index.php
+2020-01-06 09:27:10 INFO  ProjectConfig:59 - Application Login User ID : admin
+2020-01-06 09:27:10 INFO  ProjectConfig:62 - Application Login User ID : admin1
+2020-01-06 09:27:10 INFO  ProjectConfig:66 - Application Language Locale = en GB
+2020-01-06 09:28:19 INFO  ProjectConfig:35 - Loading Project Configuration - Successful
+2020-01-06 09:28:19 INFO  ProjectConfig:47 - Selected Browser : chrome
+2020-01-06 09:28:19 INFO  ProjectConfig:50 - Implicit Wait Delay : 30
+2020-01-06 09:28:19 INFO  ProjectConfig:53 - chrome Driver Location : C:\Automation Projects\GitRepo\TestNGProj\TestNGProj\src\resources\driver\chromedriver.exe
+2020-01-06 09:28:19 INFO  ProjectConfig:56 - Application URL : https://autoapp.citronglobal.com/index.php
+2020-01-06 09:28:19 INFO  ProjectConfig:59 - Application Login User ID : admin
+2020-01-06 09:28:19 INFO  ProjectConfig:62 - Application Login User ID : admin1
+2020-01-06 09:28:19 INFO  ProjectConfig:66 - Application Language Locale = us GB
+2020-01-06 09:28:23 INFO  Base:25 - Chrome Driver Initialization Successful
+2020-01-06 09:28:31 INFO  ProjectConfig:35 - Loading Project Configuration - Successful
+2020-01-06 09:28:31 INFO  ProjectConfig:47 - Selected Browser : chrome
+2020-01-06 09:28:31 INFO  ProjectConfig:50 - Implicit Wait Delay : 30
+2020-01-06 09:28:31 INFO  ProjectConfig:53 - chrome Driver Location : C:\Automation Projects\GitRepo\TestNGProj\TestNGProj\src\resources\driver\chromedriver.exe
+2020-01-06 09:28:31 INFO  ProjectConfig:56 - Application URL : https://autoapp.citronglobal.com/index.php
+2020-01-06 09:28:31 INFO  ProjectConfig:59 - Application Login User ID : admin
+2020-01-06 09:28:31 INFO  ProjectConfig:62 - Application Login User ID : admin1
+2020-01-06 09:28:31 INFO  ProjectConfig:66 - Application Language Locale = us GB
+2020-01-06 09:28:31 ERROR PagesConfig:27 - Resouce Bundle Property File not found
